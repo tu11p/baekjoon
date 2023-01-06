@@ -1,4 +1,4 @@
-# 카운팅 정렬?
+# 카운팅 정렬
 import sys
 
 n = int(sys.stdin.readline())
